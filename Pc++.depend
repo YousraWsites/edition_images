@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1704736236 source:c:\users\hp\onedrive\desktop\but info\classes c++\s102final\filtres.cpp
+	<iostream>
+	"images.h"
+	<vector>
+	<stdexcept>
+	<fstream>
+	<cmath>
+	"filtres.h"
+
+1718395517 c:\users\hp\onedrive\desktop\but info\classes c++\s102final\images.h
+	<iostream>
+	<vector>
+
+1704735468 c:\users\hp\onedrive\desktop\but info\classes c++\s102final\filtres.h
+	<iostream>
+	<vector>
+
+1721656115 source:c:\users\hp\onedrive\desktop\but info\classes c++\s102final\images.cpp
+	<iostream>
+	"images.h"
+	<vector>
+	<stdexcept>
+	<fstream>
+	<cmath>
+
+1704737389 source:c:\users\hp\onedrive\desktop\but info\classes c++\s102final\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	"images.h"
+	"filtres.h"
+
+1706176752 source:c:\users\hp\onedrive\desktop\but info\classes c++\s102final\maintest.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	"images.h"
+	"filtres.h"
+
